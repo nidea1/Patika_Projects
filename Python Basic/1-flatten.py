@@ -7,6 +7,6 @@ def flatten(x):
             flatten(i)
         else:
             flattenl.append(i)
+    return flattenl
 
 flatten(l)
-print(flattenl)
