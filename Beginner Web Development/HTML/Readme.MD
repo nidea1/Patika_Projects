@@ -4,6 +4,7 @@
 ## HTML PROJECTS
 ### 1 - İlk Web Sayfamızı Oluşturmak
 
+
 Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde ilk web sayfamızı tasarlayacağız. Çok heyecanlı değil mi? Sizlerden istediğimiz çok basit bir şekilde öğrendiklerinizle bir web sayfası tasarlamanız.<br>
 
 - [x] Siteyi açtığımızda adınız ve soyadınızı başlık şeklinde göstermeniz gerekiyor.
@@ -21,6 +22,7 @@ Bunun haricinde bolca deneme yapmayı, yanlışlar yapıp bunları düzeltmekten
 Hepinize başarılar ve kolay gelsin!
 
 ### 2 - Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+
 
 Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olarak tasarlamıştık. Yeni öğrendiğimiz bilgiler dahilinde bu sayfayı geliştirmeye devam edelim. Hazır mısınız? E hadi buyurun o zaman.<br>
 
