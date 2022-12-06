@@ -7,11 +7,11 @@
 
 Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde ilk web sayfamızı tasarlayacağız. Çok heyecanlı değil mi? Sizlerden istediğimiz çok basit bir şekilde öğrendiklerinizle bir web sayfası tasarlamanız.<br>
 
-- [x] \(Optional) Siteyi açtığımızda adınız ve soyadınızı başlık şeklinde göstermeniz gerekiyor.
+- [x] Siteyi açtığımızda adınız ve soyadınızı başlık şeklinde göstermeniz gerekiyor.
 - [x] Ad-Soyadın altında alt başlık olarak Hakkımda yazmalıdır.
 - [x] Altına paragraf içerisinde neler yaptığınızı ve nelerden hoşlandığınızı yazabilirsiniz.
 - [x] Web sitenizi kaydederken dosya adı olarak `index.html` seçmeniz gerekmektedir.
-- [] Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
+- [ ] \(Optional) Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
 
 ![ilkwebsayfasi](https://github.com/Kodluyoruz/taskforce/raw/main/html/odev1/figures/firstwebpage.png)
 
