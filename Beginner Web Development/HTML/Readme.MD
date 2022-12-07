@@ -37,7 +37,7 @@ Bu ödevde HTML öğelerini nasıl kullanırız, bir yapıyı nasıl oluştururu
 
 ### 3 - Muhallebi Tarifi
 
-[x] Bu ödevimizde sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalışacağız.
+- [x] Bu ödevimizde sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalışacağız.
 
 Kolaylıklar.
 
