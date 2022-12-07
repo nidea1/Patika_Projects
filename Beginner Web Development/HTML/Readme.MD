@@ -34,3 +34,10 @@ Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olara
 ![ikinciwebsayfasi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/html/odev2/figures/secondwebpage.png)
 
 Bu ödevde HTML öğelerini nasıl kullanırız, bir yapıyı nasıl oluştururuz onu gördük. Sıradaki dersimize devam edelim ve bir sonraki ödevi iple çekelim. Ödevleri sevelim, bağrımıza basalım.
+
+### 3 - Muhallebi Tarifi
+
+[x] Bu ödevimizde sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalışacağız.
+
+Kolaylıklar.
+
