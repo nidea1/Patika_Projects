@@ -1,0 +1,27 @@
+/****************** ortala ***********************/
+
+.ortala {
+    margin: auto;
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+/******************* çizgi ********************/
+
+hr {
+    width: 1000px;
+}
+
+/******************* yazı ***********************/
+
+.yazi {
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/******************* arka plan *******************/
+
+.arkaplan {
+    background-color: rgb(0, 255, 157);
+}
