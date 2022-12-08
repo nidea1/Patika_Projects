@@ -1,7 +1,7 @@
 # www.patika.dev
 # Patika.dev Projects
 
-## HTML PROJECTS
+## CSS PROJECTS
 ### ÖDEV 1
 
 Herkese merhaba arkadaşlar kanalımıza hoş geldiniz, bugün HTML sayfamıza hafif bir makyaj yapacağız. Komik gelse de aslında tam olarak böyle yapacağız. Bir HTML sayfası oluşturup buna CSS ile tasarımsal açıdan güzellikler katacağız, HTML sayfamıza güzelliği getireceğiz.
