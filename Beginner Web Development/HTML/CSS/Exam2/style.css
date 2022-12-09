@@ -1,0 +1,71 @@
+/********************* LOGO *****************************************/
+.logo {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+/******************************* ARAMA BÖLÜMÜ ***********************************/
+.ara {
+    background-color: aqua;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+/* ************************* ARAMANIN ÜST BÖLÜMÜ ******************************************* */
+.ust {
+    background-color: #EEEEEE;
+}
+
+/* ***********************************ARAMANIN ALT BÖLÜMÜ*********************************** */
+.alt{
+    float: left;
+    width: 100%;
+    height: 74px;
+    margin-top: 2px;
+}
+
+/* ***************************************ARAMANIN ALTINDAKİ BÖLÜMLER******************************** */
+.bolum {
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-right: 2px;
+    
+}
+
+/* ***************************************ARAMANIN ALTINDA BULUNAN ÖZEL BÖLÜMÜ *************************************** */
+.ozel {
+    background-color: #7EE5DA;
+    font-size: 16px;
+    width: 392.33px;
+    height: 54px;
+    padding: 10px;
+}
+
+/* ***************************************** ARAMANIN ALTINDA BULUNAN AYLIK BÖLÜMÜ ********************************* */
+.aylik {
+    background-color: #62B3AA;
+    float: right;
+    width: 526.13px;
+    margin-right: 0%;
+    height: 74px;
+}
+
+/* **********************************ARAMANIN ALTINDA BULUNAN YARDIM BÖLÜMÜ******************************************* */
+.yardim {
+    background-color: #70CCC2;
+    height: 64px;
+    width: 225.61px;
+    padding: 5px;
+}
+
+/* ******************************************SAYFA ALTI******************************************************************* */
+footer {
+    margin: auto;
+    text-align: center;
+    clear: both;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
