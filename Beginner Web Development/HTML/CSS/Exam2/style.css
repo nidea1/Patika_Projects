@@ -39,7 +39,7 @@
 .ozel {
     background-color: #7EE5DA;
     font-size: 16px;
-    width: 392.33px;
+    width: 36%;
     height: 54px;
     padding: 10px;
 }
@@ -48,7 +48,7 @@
 .aylik {
     background-color: #62B3AA;
     float: right;
-    width: 526.13px;
+    width: 42%;
     margin-right: 0%;
     height: 74px;
 }
@@ -57,7 +57,7 @@
 .yardim {
     background-color: #70CCC2;
     height: 64px;
-    width: 225.61px;
+    width: 19.97%;
     padding: 5px;
 }
 
