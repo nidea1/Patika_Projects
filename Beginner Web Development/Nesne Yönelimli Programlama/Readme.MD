@@ -30,3 +30,18 @@ Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir
 - [x] Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
+
+### 3 - Uçuş Yönetim Sistemi
+
+Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+
+- [x] Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
+- [x] Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
+- [x] Uçaklar çalışır veya onarım durumunda olabilir.
+- [x] Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır.
+- [x] Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.
+- [x] Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
+- [x] Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
+- [x] Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
