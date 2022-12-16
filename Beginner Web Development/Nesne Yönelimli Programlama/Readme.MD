@@ -45,3 +45,15 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 - [x] Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
+
+### 4 - Online Film Sitesi
+
+Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+
+- [x] Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+- [x] Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+- [x] Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+- [x] Normal kullanıcılar ve aboneler film satın alabilirler.
+- [x] Eğer film mevcut değil ise talep edilebilir.
+
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
